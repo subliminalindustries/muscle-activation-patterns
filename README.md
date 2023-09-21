@@ -1,6 +1,12 @@
 # muscle-activation-patterns
 Detects dominant local movement frequencies in video for detecting extraneous influence on muscle activation.
 
+## Idea
+
+You can detect muscle movement dominant frequencies. This is useful when certain muscles are being rhythmically triggered using neurological warfare.
+
+You can detect which RF-frequencies are used by comparing the output of this program with the readings of a magnetometer. 
+
 ## Operation
 
 Keyboard:
